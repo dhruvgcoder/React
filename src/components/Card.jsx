@@ -22,7 +22,7 @@ function Card(props) {
 
       <div className="card-footer">
         <div className="salary">
-          <span className="amount">$250k</span> / year
+          <span className="amount">$200k</span> / year
         </div>
         <div className="location">San Francisco, CA</div>
       </div>
